@@ -8,5 +8,5 @@ export const HomePage = () => {
       <button>Check my list</button>
       <button>Add Something to my list</button>
     </div>
-  );
-};
+  )
+}
